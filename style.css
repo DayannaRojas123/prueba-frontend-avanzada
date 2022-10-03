@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@600&display=swap');
+
+
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Jost', sans-serif;
+    color: #FFFFFF;
+}
+
+.arriba{
+    background-color: #707070;
+    height:1080px ;
+    width: 1920px;
+    
+}
+
+.abajo{
+
+    background-color:#0F0D1D;
+    height: 1080px;
+    width: 1920px;
+    padding-left: 220px;
+    padding-bottom: 158px;
+    
+}
+
+
+
+
+a{
+    color:#FFFFFF;
+    vertical-align: top;
+    
+  
+}
+
+
+.letras{
+    
+    display: flex;
+    list-style-type: none;
+   
+    align-items:center;
+    gap: 38px;
+    border-bottom: #FFFFFF 1px solid;
+
+
+}
+
+.logos{
+    float: right;
+    align-items:center;
+}
+
+.rayo{
+    width: 221px;
+    height: 160px;
+
+}
+
+.uno{
+    border-right: #FFFFFF 1px solid;
+   
+}
+
+.ig{
+    margin-left: 348px;
+}
+
+.lupa{
+   
+    padding-left: 43px;
+    padding-right: 43px;
+    margin-top: 60.5px;
+  
+
+
+    
+}
+
+.dos{
+    
+
+    border-right: #FFFFFF 1px solid;
+    height: 166px;
+
+    border-left: #FFFFFF 1px solid;
+    
+ 
+}
+
+
+.medio{
+    padding-top: 140px;
+    padding-left: 220px;
+    padding-right: 1108px;
+
+}
+
+.titulo{
+    font-size: 20px;
+    
+}
+
+.contenido{
+
+    font-size: 90px;
+    margin-top: 80px;
+    line-height: 100px;
+    margin-bottom: 72px;
+  
+}
+
+button{
+    width: 248px;
+    height: 77px;
+    background-color: #3C72FC;
+    border: none;
+
+}
+
+.subtitulo{
+    text-align: center;
+   font-size: 50px;
+
+
+}
+
+.bajo{
+    padding-top: 138px;
+    
+   
+
+
+}
+
+
+.pequeño{
+    text-align: center;
+    font-size: 18px;
+    color:#726F84;
+    margin-bottom: 105px;
+
+
+}
+
+.w1{
+   
+   float: left;
+ 
+    width: 467px;
+    height: 296px;
+    background-color: #000000;
+    margin: 30px;
+
+    padding-top: 80px;
+    padding-left: 75px;
+  margin-bottom: 150px;
+
+}
+
+.wealth{
+    margin-bottom: 50px;
+
+}
+
+.azul{
+   
+    float: right;
+    margin-bottom: 57px;
+  
+    display: flex;
+    margin-top: 37px;
+    margin-right: 50px;
+   
+  
+  
+}
+
+.a{
+
+    float: left;
+    width: 174px;
+}
+
+.b{
+    float: right;
+
+}
+
+.read{
+    font-size: 12px;
+    color:#8F8DA0;
+}
+
+
+.cuadros{
+    display: flex;
+}
+
+.final{
+    display: flex;
+}
+
+
+
+legend{
+    font-size: 16px;
+  
+    margin-left:730px;
+    
+
+}
+
+fieldset{
+    border-left: none;
+    height:100px;
+    width:1600px;
+    border-right: none;
+    border-bottom: none;
+    border-top: #FFFFFF 1px solid;
+    
+
+}
+
+.flecha{
+    width: 47px;
+    height: 47px;
+    background-color: rgba(60, 114, 252, 0.3);
+    border:solid 1px #3C72FC;
+   
+    
+}
+
+.brand{
+    
+    background-color: #3C72FC;
+    width: 164px;
+    height: 32px;
+    text-align: center;
+   padding: 4px 0;
+ 
+  
+}
+
+.renglon{
+    display: flex;
+    gap:75px;
+   align-items: center;
+}
